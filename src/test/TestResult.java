@@ -1,7 +1,7 @@
 package test;
 
 import domain.Exercise;
-import domain.ExerciseDodatok;
+import domain.ExerciseDod;
 import java.util.Arrays;
 /**
  * Клас для взаємодії програма-користовувач, програма-програміст
@@ -15,7 +15,7 @@ public class TestResult {
  */
     public static void main(String[] args) {
         final int length = 15;
-        final ExerciseDodatok numberArray = new Exercise(length);
+        final ExerciseDod numberArray = new Exercise(length);
         final int[] array = numberArray.symmetricArray();
         System.out.println(Arrays.toString(array));
     }
