@@ -4,5 +4,5 @@
 # Завдання
 
 ## 2. Заповнити масив довільного розміру числами в порядку зростання, починаючи з центру масиву, наприклад, ````[5,4,3,2,1,0,1,2,3,4,5]````
- <img src="https://github.com/ppc-ntu-khpi/35---static-arrays-VladKharchenko1/blob/master/44.png">
+ <img src="https://github.com/ppc-ntu-khpi/35---arrays-VladKharchenko1/blob/master/44.png">
 
