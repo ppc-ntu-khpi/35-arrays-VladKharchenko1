@@ -3,7 +3,7 @@ package domain;
  * Клас для створення симетричного масиву
  * @author Vlad
  */
-public final class Exercise implements ExerciseDodatok {
+public final class Exercise implements ExerciseDod {
     private final int[] numbers;
 /**
  * Присвоєння
