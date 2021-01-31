@@ -5,6 +5,6 @@ package domain;
  * Додатковий файл для Exercise
  * @author Vlad
  */
-public interface ExerciseDodatok {
+public interface ExerciseDod {
     int[] symmetricArray();
 }
